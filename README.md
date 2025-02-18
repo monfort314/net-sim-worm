@@ -11,5 +11,7 @@ Main simulation can be found in simulation_main.m. The script should generate th
 
 ## How to cite 
 Simulation originally written by J.M. Kunnert and taken from:
-Kunert, J.M., Shlizerman, E., & Kutz, J.N. (2013). Low-dimensional functionality of complex network dynamics: neurosensory integration in the Caenorhabditis Elegans connectome. Physical review. E, Statistical, nonlinear, and soft matter physics, 89 5, 052805.
+Kunert, J.M., Shlizerman, E., & Kutz, J.N. (2013). Phys. Rev. E, 89 5, 052805.
+
+
 Additional modification is a part of the manuscript: Active sensing of substrate mechanics optimizes locomotion of *C. elegans*, A. Pidde, C. Agazzi, M. Porta-de-la-Riva, C. Martínez-Fernández, A. Lorrach, A. Bijalwan, E. Torralba, R. Das, J. Munoz, M. Krieg.
